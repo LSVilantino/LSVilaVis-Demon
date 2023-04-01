@@ -1,6 +1,8 @@
 # LSVilaVis-Demon
 Projecto de demonstração de funcionalidade do LSVilaVis.
 
+## Lançamentos
+https://github.com/LSVilantino/LSVilaVis-Demon/releases
 
 # v0-0.5.0-0
 
